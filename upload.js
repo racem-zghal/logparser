@@ -21,8 +21,8 @@
         <table>
           <thead>
             <tr>
-              <th>Horodatage</th>
-              <th>Niveau</th>
+              <th>Timestamp</th>
+              <th>Level</th>
               <th>Module</th>
               <th>Message</th>
             </tr>
